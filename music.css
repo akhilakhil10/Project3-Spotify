@@ -332,24 +332,6 @@ main {
     
 }
 
-@media screen and (max-width: 450px) {
-
-    .songcont {
-        width: 100dvw;
-    }
-    .navright a:hover {
-        background-color: #ddd;
-        color: black;
-      }
-      
-      .navright a.active {
-        background-color: #04AA6D;
-        color: white;
-      }
-    
-
-}
-
 
 @media screen and (max-width: 400px) {
 
