@@ -58,8 +58,6 @@ myprogressbar.addEventListener('change', () => {
 
 const makeallplays = () => {
     Array.from(document.getElementsByClassName('songitemplay')).forEach((element) => {
-        element.classList.remove('fa-pause-circle');
-        element.classList.add('fa-play-circle');
     })
 
 }
